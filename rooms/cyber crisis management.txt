@@ -10,6 +10,9 @@ Low
 What would the severity rating of an incident be where an entire business unit is affected and the impact is high?
 Critical
 
+Who is responsible for note-taking in the CMT?
+Scribe
+
 Who is responsible for leading the CMT session?
 Chair
 
@@ -42,4 +45,5 @@ Subject Matter Experts
 
 What is the value of the flag you receive after successfully dealing with the cyber crisis?
 THM{The.Crisis.has.been.managed!}
+
 
